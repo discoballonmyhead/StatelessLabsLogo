@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'NeotericbyheronfontsBold';
+    src: url('/src/assets/NeotericBold-xq1q.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: 'NeotericbyheronfontsBold', sans-serif;
+}
+.heading2 {
+    color: #A0A0A0;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
