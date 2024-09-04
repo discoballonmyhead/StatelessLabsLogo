@@ -1,18 +1,16 @@
 {
-  "homepage": "https://discoballonmyhead/github.io/StatelessLabslogo",
   "name": "statelesslabscomps",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "framer": "^2.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
