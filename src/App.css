@@ -13,3 +13,9 @@ div{
     align-items: center;
     justify-content: center;
 }
+
+.VariantsContainer{
+    margin-bottom: 80px;
+    width: 80%;
+    border-bottom: #d1d1d1  solid 2px;
+}

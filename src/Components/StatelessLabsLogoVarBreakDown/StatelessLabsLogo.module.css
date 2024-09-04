@@ -1,0 +1,20 @@
+.BreakdownContainer{
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.Breakdowns{
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.Breakdowns p{
+    align-self: flex-start;
+}
